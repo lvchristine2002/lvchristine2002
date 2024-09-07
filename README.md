@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christine Li
-- 👀 I’m interested in uncovering insights from complex datasets stemmed from my passion for extracting expresso from coffee beans.
+- 👀 I’m interested in uncovering insights from complex datasets which stemmed from my passion for extracting expresso from coffee beans.
   I would document and analyze my extractions every time I would brew coffee. My undergraduate studies in Data Science at the University of Maryland further fueled my passions,
   through my course major studies and past experiences, I realized the importance of data visualization in decision-making.
   My proficiency in programming languages such as SQL, R, and Python allows me to wrangle and analyze data efficiently.
