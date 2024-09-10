@@ -5,7 +5,7 @@
   My proficiency in programming languages such as SQL, R, and Python allows me to wrangle and analyze data efficiently.
   Continuous growth is what I strive for in each of my roles whether that is being a student or fulfilling a role at a position, I am always eager to learn new skillsets. 
 - 🌱 I’m currently learning the Databricks platform and trying to obtain the Data Analyst Certificate.
-- 📫 How to reach me: https://www.linkedin.com/in/christine-li-689984250/ (LinkedIn) 
+- 📫 How to reach me: lvchristine2002@gmail.com
 - 😄 Pronouns: She/her
 
 <!---
